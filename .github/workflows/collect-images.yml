@@ -24,7 +24,7 @@ jobs:
         run: pip install requests pillow
 
       - name: Collect images
-        run: python collect_images_v2.py
+        run: python collect_images.py
 
       - name: Upload ZIP artifact
         uses: actions/upload-artifact@v4
