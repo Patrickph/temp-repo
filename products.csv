@@ -1,0 +1,279 @@
+id,caixa,nivel,premio
+1,Shopee,Comum,Mini impressora térmica
+2,Shopee,Comum,Mini seladora de embalagens
+3,Shopee,Comum,Carregador magnético sem fio
+4,Shopee,Comum,Fone Bluetooth TWS
+5,Shopee,Comum,Luminária sunset ou RGB
+6,Shopee,Comum,Copo térmico grande
+7,Shopee,Comum,Organizador de cabos
+8,Shopee,Comum,Mini aspirador portátil
+9,Shopee,Comum,Liquidificador portátil
+10,Shopee,Comum,Caixa de som Bluetooth
+11,Shopee,Intermediário,Smartwatch
+12,Shopee,Intermediário,Projetor portátil
+13,Shopee,Intermediário,Extratora portátil para sofá
+14,Shopee,Intermediário,Air fryer
+15,Shopee,Intermediário,Robô aspirador básico
+16,Shopee,Intermediário,Escova secadora
+17,Shopee,Intermediário,Kit de ferramentas sem fio
+18,Shopee,Jackpot,Smartphone
+19,Shopee,Jackpot,Notebook
+20,Shopee,Jackpot,Console de videogame
+21,Shopee,Jackpot,Smart TV
+22,Shopee,Jackpot,Robô aspirador premium
+23,Copa/Futebol,Comum,Camisa retrô de futebol
+24,Copa/Futebol,Comum,Camisa personalizada com nome
+25,Copa/Futebol,Comum,Cachecol de seleção ou clube
+26,Copa/Futebol,Comum,Boné ou bucket hat de futebol
+27,Copa/Futebol,Comum,Mini bola de futebol
+28,Copa/Futebol,Comum,Copo térmico de futebol
+29,Copa/Futebol,Comum,Álbum e pacotes de figurinhas
+30,Copa/Futebol,Comum,Chaveiro de chuteira ou bola
+31,Copa/Futebol,Comum,Munhequeira e faixa de capitão
+32,Copa/Futebol,Comum,Medalha decorativa de futebol
+33,Copa/Futebol,Intermediário,Camisa oficial de futebol
+34,Copa/Futebol,Intermediário,Bola oficial ou réplica premium
+35,Copa/Futebol,Intermediário,Chuteira
+36,Copa/Futebol,Intermediário,Luva de goleiro profissional
+37,Copa/Futebol,Intermediário,Caixa de som para torcida
+38,Copa/Futebol,Intermediário,Smartband esportiva
+39,Copa/Futebol,Intermediário,Kit completo de treino de futebol
+40,Copa/Futebol,Jackpot,TV 50 ou 55 polegadas
+41,Copa/Futebol,Jackpot,Console com EA Sports FC
+42,Copa/Futebol,Jackpot,Ingresso para jogo de futebol
+43,Copa/Futebol,Jackpot,Viagem para assistir a uma partida
+44,Copa/Futebol,Jackpot,Camisa autografada com certificado
+45,Steam,Comum,Gift Card Steam R$ 50
+46,Steam,Comum,Gift Card Steam R$ 100
+47,Steam,Comum,Gift Card Steam R$ 200
+48,Steam,Comum,Mousepad gamer grande
+49,Steam,Comum,Kit de keycaps
+50,Steam,Comum,Caneca Steam
+51,Steam,Comum,Luminária para setup gamer
+52,Steam,Comum,Suporte para headset
+53,Steam,Intermediário,Controle com Hall Effect
+54,Steam,Intermediário,Teclado magnético com Rapid Trigger
+55,Steam,Intermediário,Mouse gamer sem fio
+56,Steam,Intermediário,Headset gamer
+57,Steam,Intermediário,SSD externo
+58,Steam,Intermediário,Microfone USB
+59,Steam,Intermediário,Monitor gamer básico
+60,Steam,Jackpot,Steam Deck OLED
+61,Steam,Jackpot,ROG Ally ou PC portátil gamer
+62,Steam,Jackpot,Notebook gamer
+63,Steam,Jackpot,Monitor OLED gamer
+64,Steam,Jackpot,PC gamer completo
+65,Roblox,Comum,Gift Card Robux
+66,Roblox,Comum,Boneco de avatar Roblox
+67,Roblox,Comum,Blind box de personagens Roblox
+68,Roblox,Comum,Pelúcia inspirada em jogos Roblox
+69,Roblox,Comum,Camiseta Roblox
+70,Roblox,Comum,Boné Roblox
+71,Roblox,Comum,Mochila Roblox
+72,Roblox,Comum,Caneca Roblox
+73,Roblox,Comum,Luminária de blocos
+74,Roblox,Comum,Kit de adesivos Roblox
+75,Roblox,Intermediário,Gift Card Robux de alto valor
+76,Roblox,Intermediário,Headset gamer
+77,Roblox,Intermediário,Controle Bluetooth
+78,Roblox,Intermediário,Teclado RGB
+79,Roblox,Intermediário,Mouse gamer
+80,Roblox,Intermediário,Cadeira gamer infantil
+81,Roblox,Intermediário,Tablet básico
+82,Roblox,Jackpot,Tablet premium
+83,Roblox,Jackpot,Notebook gamer
+84,Roblox,Jackpot,Smartphone
+85,Roblox,Jackpot,Console de videogame
+86,Roblox,Jackpot,Kit completo de setup Roblox
+87,Play Store,Comum,Gift Card Google Play R$ 10
+88,Play Store,Comum,Gift Card Google Play R$ 30
+89,Play Store,Comum,Gift Card Google Play R$ 50
+90,Play Store,Comum,Gift Card Google Play R$ 100
+91,Play Store,Comum,Suporte para celular
+92,Play Store,Comum,Cooler para smartphone
+93,Play Store,Comum,Power bank
+94,Play Store,Comum,Fone Bluetooth
+95,Play Store,Comum,Gatilhos para jogos mobile
+96,Play Store,Intermediário,Controle telescópico para celular
+97,Play Store,Intermediário,Controle Bluetooth com Hall Effect
+98,Play Store,Intermediário,Tablet
+99,Play Store,Intermediário,Smartwatch
+100,Play Store,Intermediário,Earbuds com baixa latência
+101,Play Store,Intermediário,Smartphone intermediário
+102,Play Store,Jackpot,Smartphone gamer
+103,Play Store,Jackpot,Tablet premium
+104,Play Store,Jackpot,Notebook Chromebook
+105,Play Store,Jackpot,Kit completo para streaming mobile
+106,PC Gamer,Comum,Mousepad XXL
+107,PC Gamer,Comum,Kit de keycaps
+108,PC Gamer,Comum,Fita ou barra RGB
+109,PC Gamer,Comum,Suporte para headset
+110,PC Gamer,Comum,Hub USB
+111,PC Gamer,Comum,Microfone de lapela
+112,PC Gamer,Comum,Mouse bungee
+113,PC Gamer,Comum,Controle de iluminação do setup
+114,PC Gamer,Intermediário,Teclado Hall Effect com Rapid Trigger
+115,PC Gamer,Intermediário,Controle Hall Effect
+116,PC Gamer,Intermediário,Mouse gamer sem fio
+117,PC Gamer,Intermediário,Microfone condensador
+118,PC Gamer,Intermediário,Webcam
+119,PC Gamer,Intermediário,SSD NVMe 1 TB ou 2 TB
+120,PC Gamer,Intermediário,Monitor gamer 180 ou 240 Hz
+121,PC Gamer,Intermediário,Cadeira gamer
+122,PC Gamer,Jackpot,Placa de vídeo
+123,PC Gamer,Jackpot,Monitor OLED gamer
+124,PC Gamer,Jackpot,Notebook gamer
+125,PC Gamer,Jackpot,PC gamer completo
+126,PC Gamer,Jackpot,PC portátil gamer
+127,PC Gamer,Jackpot,Kit de periféricos premium
+128,Games,Comum,Gift Card Steam
+129,Games,Comum,Gift Card PlayStation
+130,Games,Comum,Gift Card Xbox
+131,Games,Comum,Gift Card Nintendo
+132,Games,Comum,Controle genérico
+133,Games,Comum,Headset gamer
+134,Games,Comum,Jogo físico
+135,Games,Comum,Mini console retrô
+136,Games,Comum,Boneco colecionável gamer
+137,Games,Intermediário,Controle premium
+138,Games,Intermediário,Arcade stick
+139,Games,Intermediário,Console retrô portátil
+140,Games,Intermediário,PlayStation Portal
+141,Games,Intermediário,Nintendo Switch Lite
+142,Games,Intermediário,Volante gamer básico
+143,Games,Intermediário,Cadeira gamer
+144,Games,Jackpot,Nintendo Switch 2
+145,Games,Jackpot,PlayStation 5
+146,Games,Jackpot,Xbox Series
+147,Games,Jackpot,Steam Deck OLED
+148,Games,Jackpot,ROG Ally
+149,Games,Jackpot,TV OLED ou QLED
+150,Crypto,Comum,Voucher de R$ 50 em Bitcoin
+151,Crypto,Comum,Voucher de R$ 100 em USDT
+152,Crypto,Comum,Moeda física decorativa de criptomoeda
+153,Crypto,Comum,Chave de segurança USB
+154,Crypto,Comum,Livro sobre Bitcoin
+155,Crypto,Comum,Camiseta ou boné de criptomoeda
+156,Crypto,Comum,Placa de metal para backup de seed
+157,Crypto,Intermediário,Voucher de R$ 500 em Bitcoin
+158,Crypto,Intermediário,Voucher de R$ 500 em Ethereum
+159,Crypto,Intermediário,Voucher de R$ 500 em USDT
+160,Crypto,Intermediário,Hardware wallet
+161,Crypto,Intermediário,Chave de segurança premium
+162,Crypto,Intermediário,Curso de segurança e autocustódia
+163,Crypto,Jackpot,Voucher de R$ 2.000 em Bitcoin
+164,Crypto,Jackpot,Voucher de R$ 5.000 em Bitcoin ou Ethereum
+165,Crypto,Jackpot,Hardware wallet premium com voucher
+166,Crypto,Jackpot,Notebook com hardware wallet
+167,Casa Nova,Comum,Luminária inteligente
+168,Casa Nova,Comum,Aquecedor de vela aromática
+169,Casa Nova,Comum,Smart plug
+170,Casa Nova,Comum,Mini processador
+171,Casa Nova,Comum,Seladora a vácuo
+172,Casa Nova,Comum,Termômetro culinário sem fio
+173,Casa Nova,Comum,Jogo de toalhas
+174,Casa Nova,Comum,Jogo de cama
+175,Casa Nova,Comum,Kit de potes herméticos
+176,Casa Nova,Comum,Almofadas decorativas
+177,Casa Nova,Intermediário,Air fryer
+178,Casa Nova,Intermediário,Liquidificador
+179,Casa Nova,Intermediário,Cafeteira espresso
+180,Casa Nova,Intermediário,Extratora para sofá
+181,Casa Nova,Intermediário,Mini máquina de gelo ou sorvete
+182,Casa Nova,Intermediário,Purificador de ar
+183,Casa Nova,Intermediário,Jogo de panelas
+184,Casa Nova,Intermediário,Aspirador vertical
+185,Casa Nova,Jackpot,Robô aspirador
+186,Casa Nova,Jackpot,Lava e seca
+187,Casa Nova,Jackpot,Geladeira
+188,Casa Nova,Jackpot,Smart TV
+189,Casa Nova,Jackpot,Lava-louças
+190,Casa Nova,Jackpot,Aspirador que lava e aspira
+191,Apple,Comum,Apple AirTag
+192,Apple,Comum,Carregador Apple MagSafe
+193,Apple,Comum,Gift Card Apple
+194,Apple,Comum,Cabo Apple USB-C
+195,Apple,Comum,Adaptador de tomada Apple
+196,Apple,Comum,Capa MagSafe para iPhone
+197,Apple,Comum,Suporte para iPhone
+198,Apple,Intermediário,Apple AirPods
+199,Apple,Intermediário,Apple Watch
+200,Apple,Intermediário,Apple Pencil
+201,Apple,Intermediário,Apple iPad básico
+202,Apple,Intermediário,Apple Magic Mouse
+203,Apple,Intermediário,Teclado Apple Magic Keyboard
+204,Apple,Jackpot,iPhone Pro da geração atual
+205,Apple,Jackpot,MacBook Air
+206,Apple,Jackpot,MacBook Pro
+207,Apple,Jackpot,iPad Pro
+208,Apple,Jackpot,AirPods Max
+209,Apple,Jackpot,"Kit iPhone, Apple Watch e AirPods"
+210,Automotivo,Comum,Suporte magnético para celular automotivo
+211,Automotivo,Comum,Scanner OBD2
+212,Automotivo,Comum,Medidor de pressão dos pneus
+213,Automotivo,Comum,Kit de limpeza interna automotiva
+214,Automotivo,Comum,Cera automotiva
+215,Automotivo,Comum,Luzes LED internas para carro
+216,Automotivo,Comum,Organizador de porta-malas
+217,Automotivo,Comum,Aspirador veicular
+218,Automotivo,Comum,Carregador USB-C automotivo
+219,Automotivo,Intermediário,Compressor digital portátil
+220,Automotivo,Intermediário,Chupeta de partida portátil
+221,Automotivo,Intermediário,Dashcam
+222,Automotivo,Intermediário,Adaptador CarPlay sem fio
+223,Automotivo,Intermediário,Tela CarPlay e Android Auto portátil
+224,Automotivo,Intermediário,Lavadora de alta pressão
+225,Automotivo,Intermediário,Kit de ferramentas automotivas
+226,Automotivo,Intermediário,Central multimídia
+227,Automotivo,Jackpot,Kit com quatro pneus
+228,Automotivo,Jackpot,Central multimídia premium
+229,Automotivo,Jackpot,Sistema de som automotivo
+230,Automotivo,Jackpot,Dashcam dianteira e traseira premium
+231,Automotivo,Jackpot,Voucher para revisão automotiva
+232,Automotivo,Jackpot,Voucher para estética automotiva completa
+233,Luxo,Comum,Miniatura ou frasco de perfume importado
+234,Luxo,Comum,Óculos de grife
+235,Luxo,Comum,Carteira de couro premium
+236,Luxo,Comum,Lenço de seda
+237,Luxo,Comum,Bag charm colecionável
+238,Luxo,Comum,Kit de skincare premium
+239,Luxo,Comum,Caneta de luxo
+240,Luxo,Intermediário,Perfume Parfums de Marly
+241,Luxo,Intermediário,Relógio suíço de entrada
+242,Luxo,Intermediário,Joia em ouro
+243,Luxo,Intermediário,Bolsa de grife de entrada
+244,Luxo,Intermediário,Tênis premium
+245,Luxo,Intermediário,Mala de viagem premium
+246,Luxo,Intermediário,Dyson Airwrap ou similar
+247,Luxo,Jackpot,Pulseira Cartier Love
+248,Luxo,Jackpot,"Bolsa Hermès, Chanel ou Louis Vuitton autêntica"
+249,Luxo,Jackpot,Relógio de luxo
+250,Luxo,Jackpot,Anel com diamante certificado
+251,Luxo,Jackpot,Viagem para resort de luxo
+252,Luxo,Jackpot,Voucher de R$ 10.000 em joalheria
+253,Influencer,Comum,Ring light
+254,Influencer,Comum,Microfone de lapela sem fio
+255,Influencer,Comum,Tripé
+256,Influencer,Comum,Selfie stick
+257,Influencer,Comum,Luz LED portátil
+258,Influencer,Comum,Fundo fotográfico
+259,Influencer,Comum,Kit de maquiagem
+260,Influencer,Comum,Caixa de produtos estilo PR
+261,Influencer,Comum,Suporte de mesa para celular
+262,Influencer,Comum,Mini teleprompter
+263,Influencer,Intermediário,Gimbal para smartphone
+264,Influencer,Intermediário,DJI Mic ou microfone sem fio equivalente
+265,Influencer,Intermediário,Monitor externo para câmera
+266,Influencer,Intermediário,Drone compacto
+267,Influencer,Intermediário,Kit de iluminação para estúdio
+268,Influencer,Intermediário,Cadeira para setup
+269,Influencer,Intermediário,Smartphone intermediário para conteúdo
+270,Influencer,Intermediário,Tablet para edição
+271,Influencer,Jackpot,DJI Osmo Pocket
+272,Influencer,Jackpot,Sony ZV-E10 II
+273,Influencer,Jackpot,Canon PowerShot V1
+274,Influencer,Jackpot,Insta360 X5
+275,Influencer,Jackpot,Smartphone Pro para conteúdo
+276,Influencer,Jackpot,Notebook para edição
+277,Influencer,Jackpot,Kit completo de estúdio
+278,Influencer,Jackpot,Drone DJI premium
