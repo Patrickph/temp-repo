@@ -1,0 +1,44 @@
+name: Collect product images
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests pillow
+
+      - name: Collect images
+        run: python collect_images.py
+
+      - name: Upload ZIP artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: product-images
+          path: product-images.zip
+          retention-days: 7
+
+      - name: Upload manifest preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: product-images-manifest
+          path: |
+            output/manifest.csv
+            output/manifest.json
+            output/LEIA-ME.txt
+          retention-days: 7
